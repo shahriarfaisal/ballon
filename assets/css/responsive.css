@@ -1,0 +1,188 @@
+/*extra small device*/
+
+
+
+
+
+@media(max-width:575px) {
+
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+
+        background: #13136a;
+        text-align: center;
+    }
+
+    #banner_part {
+        padding: 100px 0px;
+    }
+
+    .banner_text {
+        padding: 50px 0px;
+    }
+
+    .banner_text h2 {
+        font-size: 40px;
+    }
+
+    .banner_text h4 {
+        font-size: 24px;
+
+    }
+
+    .banner_text h5 {
+        font-size: 23px;
+    }
+
+    .plan_bg {
+
+        margin-bottom: 25px;
+    }
+
+    .plan_txt h5 {
+        text-align: center;
+    }
+
+    .gol_one {
+        margin-bottom: 20px;
+    }
+
+    .gol_two {
+        left: 0;
+        margin-bottom: 20px;
+    }
+
+    .gol_three {
+        left: 0;
+        margin-bottom: 20px;
+    }
+
+    .gol_four {
+        left: 0;
+    }
+
+    .title h4 {
+        font-size: 25px;
+    }
+}
+
+
+
+/* small device*/
+
+@media(min-width:576px)and (max-width:767px) {
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+
+        background: #13136a;
+        text-align: center;
+    }
+
+    .plan_bg {
+
+        margin-bottom: 29px;
+    }
+
+    .plan_txt h5 {
+
+        text-align: center;
+    }
+
+    .gol_one {
+        margin-bottom: 20px;
+    }
+
+    .gol_two {
+        left: 0;
+        margin-bottom: 20px;
+    }
+
+    .gol_three {
+        left: 0;
+        margin-bottom: 20px;
+    }
+
+    .gol_four {
+        left: 0;
+    }
+
+    .overlay {
+
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .analysis_image {
+        text-align: center;
+    }
+}
+
+
+
+
+
+@media(min-width:768px)and (max-width:991px) {
+
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+
+        background: #13136a;
+        text-align: center;
+    }
+
+    #banner_part {
+        padding: 100px 0px;
+    }
+
+    .overlay {
+
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .gol_one {
+        margin-bottom: 20px;
+    }
+
+    .gol_two {
+        left: 0;
+        margin-bottom: 20px;
+    }
+
+    .gol_three {
+        left: 0;
+        margin-bottom: 20px;
+    }
+
+    .gol_four {
+        left: 0;
+    }
+
+    .analysis_image {
+        text-align: center;
+    }
+
+    .connect_left {
+
+
+        text-align: center;
+    }
+
+    .plan_bg {
+        margin-bottom: 25px;
+    }
+
+    .plan_txt h5 {
+
+        text-align: center;
+    }
+}
